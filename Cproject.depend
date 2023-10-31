@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1693009477 source:c:\users\smabd\onedrive\desktop\assignments\cproject\main.c
+	<stdio.h>
+	<stdlib.h>
+	"STD.h"
+	"SDB.h"
+
+1692988751 c:\users\smabd\onedrive\desktop\assignments\cproject\std.h
+
+1693270546 c:\users\smabd\onedrive\desktop\assignments\cproject\sdb.h
+	"STD.h"
+
+1693329551 source:c:\users\smabd\onedrive\desktop\assignments\cproject\sdb.c
+	"STD.h"
+	"SDB.h"
+	<stdio.h>
+	<stdlib.h>
+
+1693275842 source:c:\users\smabd\onedrive\desktop\assignments\cproject\sdbapp.c
+	<stdio.h>
+	<stdlib.h>
+	"SDB.h"
+	"STD.h"
+
+1695245758 source:c:\users\a3abd\onedrive\desktop\assignments\cproject\main.c
+	<stdio.h>
+	<stdlib.h>
+	"STD.h"
+	"SDB.h"
+
+1693789538 c:\users\a3abd\onedrive\desktop\assignments\cproject\std.h
+
+1694398927 c:\users\a3abd\onedrive\desktop\assignments\cproject\sdb.h
+	"STD.h"
+
+1695303499 source:c:\users\a3abd\onedrive\desktop\assignments\cproject\sdb.c
+	"STD.h"
+	"SDB.h"
+	<stdio.h>
+	<stdlib.h>
+
+1695303994 source:c:\users\a3abd\onedrive\desktop\assignments\cproject\sdbapp.c
+	<stdio.h>
+	<stdlib.h>
+	"SDB.h"
+	"STD.h"
+
